@@ -1,0 +1,4 @@
+Operation,Repetitions,Average_ms,Median_ms,Minimum_ms,Maximum_ms
+Patient history,30,6.952,6.797,5.148,10.964
+Lab results by date range,30,2.258,1.777,1.619,4.667
+Monthly lab aggregation,30,9.477,9.366,8.701,13.141
